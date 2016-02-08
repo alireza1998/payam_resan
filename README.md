@@ -3,7 +3,7 @@ This Bot is written in Python with the help from the pyTelegramBotAPI.
 
 Let's start by installing everything you need.
 
-# Installation
+# مراحل نصب
 
 First of all, you need to install Python2 & the Python package manager
 
@@ -19,7 +19,7 @@ sudo pip2 install pyTelegramBotAPI
 Finally clone the repo
 
 ```
-git clone https://github.com/appendhc/lsd_support_bot.clone
+git clone https://github.com/sogandmusic/sogbot5.clone
 ```
 
 # Getting started
