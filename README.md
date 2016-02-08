@@ -43,7 +43,7 @@ You can one-time run the Bot with the command
 python bot.py
 ```
 
-# Special thanks to
+# تیم سوگند موزیک
 [sogandmusic](https://telegram.me/SogandMusic) - For soruce LoggingBot
 
 [H.A](https://telegram.me/H3IRAN) - For helping with Debugging
