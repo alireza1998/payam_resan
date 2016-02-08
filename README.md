@@ -11,7 +11,7 @@
 sudo apt-get install python2 python2-pip
 ```
 
-After that you need to install the pyTelegramBotAPI.
+در مرحله بعد شما باید pyTelegramBotAPI نصب نمایید .
 
 ```
 sudo pip2 install pyTelegramBotAPI
