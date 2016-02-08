@@ -30,9 +30,9 @@ Open the file "bot.py" and replace following IDs with your options:
 ```
 API_TOKEN = 'YOUR TOKEN'
 ```
-This should be your Token received from Botfather.
+در اینجا باید توکن ربات بوت فادر را وارد کنید 
 
-Also don't forget to replace the Group ID
+و همچنین لینک گروه را
 
 
 
