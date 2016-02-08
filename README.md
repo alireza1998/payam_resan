@@ -1,7 +1,7 @@
 # پیام رسان مخفی
-This Bot is written in Python with the help from the pyTelegramBotAPI.
+این ربات با کمک کدهای پیتون نوشته شده 
 
-Let's start by installing everything you need.
+شما میتوانید با نصب این ربات با دنیای این ربات  آشنا شوید .
 
 # مراحل نصب
 
