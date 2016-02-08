@@ -1,4 +1,4 @@
-# Telegram Support Bot
+# پیام رسان مخفی
 This Bot is written in Python with the help from the pyTelegramBotAPI.
 
 Let's start by installing everything you need.
