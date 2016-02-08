@@ -5,7 +5,7 @@
 
 # مراحل نصب
 
-First of all, you need to install Python2 & the Python package manager
+در مرحله اول شما باید بسته پایتون2رو  نصب کنید با دستور زیر در ترمینال.
 
 ```
 sudo apt-get install python2 python2-pip
