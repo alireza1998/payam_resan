@@ -36,9 +36,9 @@ API_TOKEN = 'YOUR TOKEN'
 
 
 
-# Running the Bot
+# راه اندازی ربات
 
-You can one-time run the Bot with the command
+شما میتوانید ربات را با کد زیر راه اندازی کنید
 ```
 python bot.py
 ```
