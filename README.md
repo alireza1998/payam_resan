@@ -44,16 +44,11 @@ python bot.py
 ```
 
 # Special thanks to
-[@aRandomStranger](https://telegram.me/aRandomStranger) - For soruce LoggingBot
+[sogandmusic](https://telegram.me/SogandMusic) - For soruce LoggingBot
 
-[@Edurolp](https://telegram.me/edurolp) - For helping with Debugging
+[H.A](https://telegram.me/H3IRAN) - For helping with Debugging
 
-[@Gunny14](https://telegram.me/gunny14) - For helping users & being staff
+[Our cahnnel](https://telegram.me/smchannel) 
 
-[@Sanguchi](https://telegram.me/Sanguchi) - For helping with Debugging, being staff & helping users
-
-[@JackRendor](https://telegram.me/JackRendor) - For helping users & being staff
-
-[@eternnoir](https://github.com/eternnoir/pyTelegramBotAPI) - for creating this loveful API!
 
 
