@@ -16,7 +16,7 @@ sudo apt-get install python2 python2-pip
 ```
 sudo pip2 install pyTelegramBotAPI
 ```
-Finally clone the repo
+در نهایت شما باید ادرس گیتاب را کلون کنید .
 
 ```
 git clone https://github.com/sogandmusic/sogbot5.clone
