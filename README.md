@@ -22,7 +22,7 @@ sudo pip2 install pyTelegramBotAPI
 git clone https://github.com/sogandmusic/sogbot5.clone
 ```
 
-# Getting started
+# شروع شدن
 
 Create 2 new files named "loggingids.json" and "user.txt"
 Open the file "bot.py" and replace following IDs with your options:
